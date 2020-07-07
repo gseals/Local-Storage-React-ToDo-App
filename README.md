@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and following this [tutorial](https://youtu.be/nUl5QLkVdvU).
 
-# Local Storage React ToDo App
+# Local Storage React Todo App
 
 ## Description
 
