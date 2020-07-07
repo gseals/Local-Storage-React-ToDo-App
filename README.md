@@ -13,7 +13,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Technologies Used
 
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
-* [ESLint 14.1.0](https://eslint.org/)
 * [HTML5](https://html.spec.whatwg.org/multipage/)
 * [JavaScript](https://www.javascript.com/)
 * [Material-UI Core 4.9.7](https://material-ui.com/)
