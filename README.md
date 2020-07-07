@@ -26,16 +26,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Landing%20Page.png)
+![Landing Page](https://raw.githubusercontent.com/gseals/Local-Storage-React-ToDo-App/master/screenshots/Landing%20Page.png)
 
 ### Items in List
-![Items in List](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Landing%20Page.png)
+![Items in List](https://raw.githubusercontent.com/gseals/Local-Storage-React-ToDo-App/master/screenshots/Items%20in%20List.png)
 
 ### Items Marked Done
-![Items Marked Done(https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Landing%20Page.png)
+![Items Marked Done](https://raw.githubusercontent.com/gseals/Local-Storage-React-ToDo-App/master/screenshots/Items%20Marked%20Done.png)
 
 ### Item Deleted
-![Item Deleted](https://raw.githubusercontent.com/gseals/React-Movie-Database/master/screenshots/Landing%20Page.png)
+![Item Deleted](https://raw.githubusercontent.com/gseals/Local-Storage-React-ToDo-App/master/screenshots/Item%20Deleted.png)
 
 ## How to Run
 
