@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and following this [tutorial](https://youtu.be/nUl5QLkVdvU).
 
-# Local Storage React Todo App
+# Local Storage React To Do App
 
 ## Description
 
-* A React todo application that utilizes local storage so refreshing the page does not remove the items in your todo list. Each item in your list can be deleted, or marked as done with strikethrough.
+* A React to do application that utilizes local storage so refreshing the page does not remove the items in your to do list. Each item in your list can be deleted, or marked as done with strikethrough.
 
 ## Demo Link
 
